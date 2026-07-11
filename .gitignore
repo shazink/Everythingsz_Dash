@@ -1,0 +1,84 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+build.zip
+**/build.zip
+
+# Dalvik/ART
+*.dex
+
+# Java / Kotlin compiled output
+*.class
+
+# Generated / build output
+bin/
+gen/
+out/
+release/
+build/
+**/build/
+
+# Gradle
+.gradle/
+.gradle-home/
+
+# Local machine configuration (SDK path — each developer creates their own)
+local.properties
+
+# Proguard
+proguard/
+
+# Logs
+*.log
+*.hprof
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf/
+.idea/**/caches/
+.idea/**/libraries/
+.idea/**/modules.xml
+.idea/**/navEditor.xml
+.idea/**/assetWizardSettings.xml
+
+# Kotlin
+.kotlin/
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# Screenshots from UI tests / device captures
+/captures/
+
+# Signing keys (never commit)
+*.jks
+*.keystore
+*.keystore.properties
+signing.properties
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python virtualenv (used by local scripts only)
+venv/
+
+# Local tooling / agent artifacts
+.claude/
+.cursor/
+
+# Misc local test output
+event.json

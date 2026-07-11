@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary palette - Electric Cyan -->
+    <color name="primary">#FF00D2FF</color>
+    <color name="primary_dark">#FF0A1628</color>
+    <color name="primary_light">#FF4DE8FF</color>
+    <color name="on_primary">#FF0A0A14</color>
+
+    <!-- Secondary palette - Vivid Purple -->
+    <color name="secondary">#FF7A5FFF</color>
+    <color name="secondary_dark">#FF5A3FDF</color>
+    <color name="secondary_light">#FF9E85FF</color>
+    <color name="on_secondary">#FFFFFFFF</color>
+
+    <!-- Background & Surface - Deep Navy -->
+    <color name="background">#FF0F0F1A</color>
+    <color name="background_secondary">#FF1A1A2E</color>
+    <color name="surface">#FF1E1E32</color>
+    <color name="surface_variant">#FF2A2A44</color>
+    <color name="surface_elevated">#FF252540</color>
+    <color name="on_background">#FFEFEFFF</color>
+    <color name="on_surface">#FFEAEAFF</color>
+    <color name="on_surface_secondary">#FF8888AA</color>
+
+    <!-- Card colors - Glass effect -->
+    <color name="card_background">#FF1E1E32</color>
+    <color name="card_stroke">#33FFFFFF</color>
+    <color name="card_stroke_accent">#4400D2FF</color>
+
+    <!-- Gradient colors for headers -->
+    <color name="gradient_start">#FF0F0F1A</color>
+    <color name="gradient_mid">#FF151530</color>
+    <color name="gradient_end">#FF1A1A2E</color>
+
+    <!-- Accent gradient for icons -->
+    <color name="accent_gradient_start">#FF00D2FF</color>
+    <color name="accent_gradient_end">#FF7A5FFF</color>
+
+    <!-- Folder card gradient colors -->
+    <color name="folder_gradient_start">#FF00D2FF</color>
+    <color name="folder_gradient_end">#FF7A5FFF</color>
+
+    <!-- Status & Feedback -->
+    <color name="error">#FFFF4D6A</color>
+    <color name="success">#FF00E676</color>
+    <color name="warning">#FFFFAB40</color>
+
+    <!-- Ripple -->
+    <color name="ripple">#2200D2FF</color>
+
+    <!-- Search bar -->
+    <color name="search_background">#FF2A2A44</color>
+    <color name="search_hint">#FF666688</color>
+    <color name="search_border">#3300D2FF</color>
+
+    <!-- FAB - Electric Coral -->
+    <color name="fab_background">#FFFF6B6B</color>
+    <color name="fab_icon">#FFFFFFFF</color>
+
+    <!-- Share receiver -->
+    <color name="share_overlay">#CC0F0F1A</color>
+
+    <!-- Legacy colors (kept for compatibility) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

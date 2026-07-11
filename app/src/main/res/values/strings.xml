@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Everythingsz Dash</string>
+
+    <!-- Toolbar titles -->
+    <string name="title_my_folders">My Folders</string>
+    <string name="title_bookmarks">Bookmarks</string>
+
+    <!-- FAB content descriptions -->
+    <string name="add_folder">Add Folder</string>
+    <string name="add_bookmark">Add Bookmark</string>
+
+    <!-- Dialog titles -->
+    <string name="dialog_new_folder">New Folder</string>
+    <string name="dialog_rename_folder">Rename Folder</string>
+    <string name="dialog_new_bookmark">New Bookmark</string>
+    <string name="dialog_edit_bookmark">Edit Bookmark</string>
+    <string name="dialog_move_bookmark">Move to Folder</string>
+    <string name="dialog_delete_folder">Delete Folder</string>
+    <string name="dialog_delete_bookmark">Delete Bookmark</string>
+
+    <!-- Dialog hints -->
+    <string name="hint_folder_name">Folder name</string>
+    <string name="hint_bookmark_title">Bookmark title</string>
+    <string name="hint_bookmark_url">URL (e.g. https://example.com)</string>
+
+    <!-- Dialog buttons -->
+    <string name="btn_create">Create</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_move">Move</string>
+
+    <!-- Confirmation messages -->
+    <string name="confirm_delete_folder">Are you sure you want to delete this folder? All bookmarks inside will also be deleted.</string>
+    <string name="confirm_delete_bookmark">Are you sure you want to delete this bookmark?</string>
+
+    <!-- Empty states -->
+    <string name="empty_folders">No folders yet\nTap + to create your first folder</string>
+    <string name="empty_bookmarks">No bookmarks yet\nTap + to add your first bookmark</string>
+    <string name="empty_search">No results found</string>
+
+    <!-- Context menu -->
+    <string name="action_rename">Rename</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_move">Move to Folder</string>
+
+    <!-- Search -->
+    <string name="search_folders">Search folders…</string>
+    <string name="search_bookmarks">Search bookmarks…</string>
+
+    <!-- Misc -->
+    <string name="bookmark_count">%d bookmarks</string>
+    <string name="bookmark_count_one">1 bookmark</string>
+    <string name="bookmark_count_zero">Empty</string>
+    <string name="navigate_back">Go back</string>
+
+    <!-- Validation errors -->
+    <string name="error_empty_name">Name cannot be empty</string>
+    <string name="error_empty_url">URL cannot be empty</string>
+    <string name="error_invalid_url">Please enter a valid URL</string>
+
+    <!-- Toasts -->
+    <string name="toast_folder_created">Folder created</string>
+    <string name="toast_folder_renamed">Folder renamed</string>
+    <string name="toast_folder_deleted">Folder deleted</string>
+    <string name="toast_bookmark_added">Bookmark added</string>
+    <string name="toast_bookmark_updated">Bookmark updated</string>
+    <string name="toast_bookmark_deleted">Bookmark deleted</string>
+    <string name="toast_bookmark_moved">Bookmark moved</string>
+    <string name="toast_cannot_open_url">Cannot open this URL</string>
+
+    <!-- Share receiver -->
+    <string name="share_save_link">Save Link</string>
+    <string name="share_pick_folder">SELECT FOLDER</string>
+    <string name="share_create_new_folder">+ Create new folder</string>
+    <string name="share_btn_save">Save Bookmark</string>
+    <string name="share_folder_selected">Selected</string>
+    <string name="toast_share_saved">Bookmark saved!</string>
+    <string name="toast_share_no_url">No URL found in shared content</string>
+    <string name="toast_share_select_folder">Please select a folder</string>
+    <string name="toast_share_enter_title">Please enter a title</string>
+
+    <!-- Export / Import -->
+    <string name="action_export">Export Bookmarks</string>
+    <string name="action_import">Import Bookmarks</string>
+    <string name="export_file_name">everythingsz_dash_backup.json</string>
+    <string name="toast_export_success">Bookmarks exported successfully!</string>
+    <string name="toast_export_failed">Export failed. Please try again.</string>
+    <string name="toast_import_success">Bookmarks imported successfully!</string>
+    <string name="toast_import_failed">Import failed. Please check the file format.</string>
+    <string name="toast_import_no_data">No bookmark data found in file.</string>
+</resources>
